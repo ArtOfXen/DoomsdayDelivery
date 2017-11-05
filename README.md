@@ -1,4 +1,5 @@
 # DoomsdayDelivery
+Eddie Lowe 2017
 
 Made in Unity 5.6 for the GMTK 48hour Gamejam in 2017.
 Only the scrips are uploaded here, not the unity file.
